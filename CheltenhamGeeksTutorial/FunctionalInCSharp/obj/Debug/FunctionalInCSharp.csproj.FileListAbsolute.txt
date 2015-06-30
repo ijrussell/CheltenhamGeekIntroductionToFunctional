@@ -1,0 +1,12 @@
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.exe.config
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.exe
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.pdb
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.csprojResolveAssemblyReference.cache
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.exe
+C:\Code\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.exe.config
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.exe
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.exe
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\bin\Debug\FunctionalInCSharp.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\FunctionalInCSharp\obj\Debug\FunctionalInCSharp.csprojResolveAssemblyReference.cache

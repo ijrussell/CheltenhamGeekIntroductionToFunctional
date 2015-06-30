@@ -1,0 +1,16 @@
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.XML
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.exe
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.pdb
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\FSharp.Core.dll
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\FSharp.Core.xml
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.fsprojResolveAssemblyReference.cache
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.exe
+C:\Code\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.XML
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.exe
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\CheltenhamGeeksTutorial.pdb
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\FSharp.Core.dll
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\bin\Debug\FSharp.Core.xml
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.fsprojResolveAssemblyReference.cache
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.exe
+C:\Users\Ian-Laptop\Dropbox\Presentations\CheltenhamGeeks\FunctionalProgramming\CheltenhamGeeksTutorial\CheltenhamGeeksTutorial\obj\Debug\CheltenhamGeeksTutorial.pdb
